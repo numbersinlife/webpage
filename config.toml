@@ -4,6 +4,9 @@ baseURL = "https://www.numbersinlife.eu/"
 languageCode = "en-GB"
 title = "numbersinlife"
 
+# folder to create the static site
+publishDir = "docs"
+
 # Metadata
 [params]
   author = "numbersinlife"
@@ -228,6 +231,3 @@ title = "numbersinlife"
   vine = "#"
   linkedin = "#"
   instagram = "#"
-
-  # folder to create the static site
-  publishDir = "docs"
